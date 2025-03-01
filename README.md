@@ -37,10 +37,6 @@ Histogram grafikleri ile duygu skorlarının dağılımı görselleştirilmişti
 Çoğu yorum nötr (0.0) duygu skoruna sahiptir.
 Pozitif ve negatif yorumlar dengeli şekilde dağılmıştır.
 
-Örnek grafik:
-![Sentiment Distribution](images/sentiment_distribution.png)
-
-
 
 Lisans
 
